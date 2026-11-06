@@ -94,18 +94,6 @@ End-to-end **NLP pipeline** to classify Amazon reviews as positive, negative, or
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rishikanigam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikanigam&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikanigam&theme=tokyonight&hide_border=true" />
-</div>
-
----
 
 ## 🌱 Currently Working On
 
